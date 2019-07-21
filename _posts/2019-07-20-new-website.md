@@ -7,7 +7,7 @@ subtitle: We're so excited for this year!
 **CALLING ALL FUTURE DELAGATES FOR THE SCHOOL YEAR OF 2019-20!**
 
 Welcome to Wheeler's MUN webpage! Here's a little backstory:
->MUN got started back up on 2019-19 school year, so we are fairly new. Garret McDowell 
+MUN got started back up on 2019-19 school year, so we are fairly new. Garret McDowell 
 was our sponsor but sadly he left this year. However, we still have Mr. White! We competed
 last year in the GT COnfference and did well!
 
