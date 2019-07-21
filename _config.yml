@@ -27,13 +27,13 @@ avatar: "/img/UN-Small-Square.png"
 
 # List of links in the navigation bar
 navbar-links:
-  Home: ""
+  Home: "/wheelermun3"
   Resources:
     - Getting started: "getstarted"
     - Featured users: "featured-users"
     - Project page: "https://github.com/daattali/beautiful-jekyll#readme"
-  About me: "http://deanattali.com"
-  Support me: "http://deanattali.com/aboutme/#feed-meeee"
+  About us: "http://deanattali.com"
+  Registration: "http://deanattali.com/aboutme/#feed-meeee"
 
 # --- Footer options --- #
 
