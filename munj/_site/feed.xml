@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wheeler Model UN</title>
+    <description>Wheeler &lt;br /&gt; Model UN!</description>
+    <link>http://localhost:4000</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Our New Website!</title>
+        <description>&lt;p&gt;&lt;strong&gt;CALLING ALL FUTURE DELAGATES FOR THE SCHOOL YEAR OF 2019-20!&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Welcome to Wheeler’s MUN webpage! Here’s a little backstory:
+MUN got started back up on 2019-19 school year, so we are fairly new. Garret McDowell 
+was our sponsor but sadly he left this year. However, we still have Mr. White! We competed
+last year in the GT Conference and did well!&lt;/p&gt;
+
+&lt;p&gt;What is MUN? Model United Nations is an educational simulation and/or academic activity in which students can learn about diplomacy,
+international relations, and the UNited Nations.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What we are doing now:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;We are now preparing for out GT Conference in October! This is a 3 day conference where we can compete against other schools with our chosen country or countries and committee
+spot.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;More Information:&lt;/strong&gt;
+If you love debating, researching, coming up with resolutions, and speaking, you should join us! Make sure to find us at Wildcat Daze!!!! More info TBA, but for the mean time, if you have any questions, contact either Diego Trujillo or Ashley Jeong!&lt;/p&gt;
+</description>
+        <pubDate>Sat, 20 Jul 2019 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/2019-07-20-new-website/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019-07-20-new-website/</guid>
+      </item>
+    
+  </channel>
+</rss>
