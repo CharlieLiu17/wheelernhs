@@ -8,8 +8,8 @@
 #baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
-url: "http://charlieliu17.github.io"
-baseurl: "/wheelermun3"
+url: "wheelermun.com"
+baseurl: ""
 
 # Of course don't forget to change the username and projectname to YOUR username and project
 
@@ -27,7 +27,7 @@ avatar: "/img/UN-Small-Square.png"
 
 # List of links in the navigation bar
 navbar-links:
-  Home: "/wheelermun3"
+  Home: ""
   Resources:
     - Getting started: "getstarted"
     - Featured users: "featured-users"
