@@ -2,7 +2,7 @@
     layout: page
     title: About Us
 ---
-
+<body>
 <div class="container">
     <div class="row">
         <div class="col-lg-12 ">
@@ -28,7 +28,5 @@
         </div>
     </div>
 </div>
-
-<div class="col-xs-6">
-    <img src="/img/>
+</body>
     
