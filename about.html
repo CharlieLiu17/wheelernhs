@@ -1,0 +1,29 @@
+---
+    layout: page
+    title: About Us
+---
+<body>
+<div class="container">
+    <div class="row">
+        <h2 class="text-center">Our Leaders</h2>
+    </div>
+    <br>
+    <div class="row text-center">
+        {% for member in site.data.team %}
+        <div class="col-xs-6">
+            <div class="team-member">
+                <img src="/img/{{ member.photo }}" class="img-responsive img-circle team-member-img" alt="{{ member.name }}">
+                <h4 class="team-member-h4">{{ member.name }}</h4>
+                <h5 class="team-member-h5">{{ member.bio }}</h5>      
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+    <div class="row">
+        <div class="col-lg-8 col-lg-offset-2 text-center">
+            <h2>The leadership team has great things planned this year for the club and can't wait to make this the best club in Wheeler in 2020!</h2>
+        </div>
+    </div>
+</div>
+</body>
+    
