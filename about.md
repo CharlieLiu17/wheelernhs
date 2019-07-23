@@ -5,11 +5,12 @@
 <body>
 <div class="container">
     <div class="row">
-        Our Leaders
+        <h2 class="text-center">Our Leaders</h2>
     </div>
+    <br>
     <div class="row">
         {% for member in site.data.team %}
-        <div class="col-xs-6">
+        <div class="col-xs-6 text-center">
             <div class="team-member">
                 <img src="/img/{{ member.photo }}" class="img-responsive img-circle" alt="{{ member.name }}">
                 <h4>{{ member.name }}</h4>
@@ -19,7 +20,7 @@
         {% endfor %}
     </div>
     <div class="row">
-        **The leadership team has great things planned this year for the club and can't wait to make this the best club in Wheeler in 2020!**
+        <h2>The leadership team has great things planned this year for the club and can't wait to make this the best club in Wheeler in 2020!</h2>
     </div>
 </div>
 </body>
