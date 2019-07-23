@@ -17,7 +17,7 @@ baseurl: ""
 title: Wheeler Model UN
 
 # Short description of your site
-description: Wheeler <br /> Model UN!
+description: Wheeler Model UN!
 
 # --- Navigation bar options --- #
 
@@ -33,7 +33,7 @@ navbar-links:
     - Featured users: "featured-users"
     - Project page: "https://github.com/daattali/beautiful-jekyll#readme"
   About us: "about"
-  Registration: "http://deanattali.com/aboutme/#feed-meeee"
+  Registration: "https://docs.google.com/spreadsheets/d/1E3YMTvp9BpJ16VsMqJKFiISqBwYdnKHkNB7V4XLpZ78/edit?usp=sharing"
 
 # --- Footer options --- #
 
