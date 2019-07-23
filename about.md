@@ -28,4 +28,7 @@
         </div>
     </div>
 </div>
+
+<div class="col-xs-6">
+    <img src="/img/>
     
