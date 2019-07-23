@@ -28,7 +28,7 @@ avatar: "/img/UN-Small-Square.png"
 # List of links in the navigation bar
 navbar-links:
   Home: ""
-  Resources: ""
+  Resources: "resources"
   About us: "about"
   Registration: "https://docs.google.com/spreadsheets/d/1E3YMTvp9BpJ16VsMqJKFiISqBwYdnKHkNB7V4XLpZ78/edit?usp=sharing"
 
