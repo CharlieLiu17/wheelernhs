@@ -1,13 +1,15 @@
 @import url("pygment_highlights.css");
 
 /* --- General --- */
+/* wheeler yellow: #f5c300
+   wheeler blue: #081F3F */
 
 body {
   font-family: 'Lora', 'Times New Roman', serif;
   font-size: 18px;
-  color: #FFF;
+  color: #000000;
   position: relative;
-  background: #458ddb;
+  background: #ffffff;
 }
 p {
   line-height: 1.5;
