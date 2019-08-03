@@ -8,22 +8,22 @@
 #baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
-url: "wheelermun.com"
-baseurl: ""
+url: "https://charlieliu17.github.io"
+baseurl: "/wheelernhs/"
 
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Wheeler Model UN
+title: Wheeler NHS
 
 # Short description of your site
-description: Wheeler Model UN!
+description: Wheeler National Honor Society!
 
 # --- Navigation bar options --- #
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/UN-Small-Square.png"
+avatar: ""
 
 # List of links in the navigation bar
 navbar-links:
@@ -37,8 +37,8 @@ navbar-links:
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Wheeler Model UN
-  email: "munwheeler@gmail.com"
+  name: Wheeler National Honor Society
+  email: "nhs.wheeler@gmail.com"
   facebook: WheelerMUN
   instagram: wheelermodelun
   github: WheelerMUN
@@ -50,7 +50,7 @@ author:
 footer-links-active:
   rss: false
   facebook: false
-  instagram: true
+  instagram: false
   email: true
   twitter: false
   github: false
