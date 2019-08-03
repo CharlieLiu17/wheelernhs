@@ -4,7 +4,7 @@ title: Our New Website!
 subtitle: We're so excited for this year!
 ---
 
-**CALLING ALL FUTURE DELAGATES FOR THE SCHOOL YEAR OF 2019-20!**
+****CALLING ALL FUTURE DELAGATES FOR THE SCHOOL YEAR OF 2019-20!**
 
 Welcome to Wheeler's MUN webpage! Here's a little backstory:
 MUN got started back up on 2019-20 school year, so we are fairly new. Garret McDowell 
@@ -20,4 +20,4 @@ We are now preparing for out GT Conference in October! This is a 2 day conferenc
 spot. 
 
 __More Information:__
-If you love debating, researching, coming up with resolutions, and speaking, you should join us! Make sure to find us at Wildcat Days!!!! More info TBA, but for the mean time, if you have any questions, contact either Diego Trujillo or Ashley Jeong!
+If you love debating, researching, coming up with resolutions, and speaking, you should join us! Make sure to find us at Wildcat Days!!!! More info TBA, but for the mean time, if you have any questions, contact either Diego Trujillo or Ashley Jeong!**

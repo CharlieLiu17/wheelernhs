@@ -297,7 +297,7 @@ footer .theme-by {
 
 .post-preview a {
   text-decoration: none;
-  color: #ffffff;
+  color: #000000;
 }
 
 .post-preview a:focus,
@@ -317,7 +317,7 @@ footer .theme-by {
 }
 .post-preview .post-meta,
 .post-heading .post-meta {
-  color: #f1f1f1;
+  color: #000000;
   font-size: 18px;
   font-style: italic;
   margin: 0 0 10px;

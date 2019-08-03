@@ -9,7 +9,7 @@
 
 # If you are building a GitHub project page then use these settings:
 url: "https://charlieliu17.github.io"
-baseurl: "/wheelernhs/"
+baseurl: "/wheelernhs"
 
 # Of course don't forget to change the username and projectname to YOUR username and project
 
@@ -30,7 +30,7 @@ navbar-links:
   Home: ""
   Resources: "resources"
   About us: "about"
-  Registration: "https://forms.gle/TAHX5tpfY2uEVAi4A"
+  Sign Ups!: "signupgenius.com"
 
 # --- Footer options --- #
 
@@ -39,10 +39,7 @@ navbar-links:
 author:
   name: Wheeler National Honor Society
   email: "nhs.wheeler@gmail.com"
-  facebook: WheelerMUN
-  instagram: wheelermodelun
-  github: WheelerMUN
-  twitter: WheelerMUN
+  instagram: ""
   linkedin: ""
   stackoverflow: ""
  
@@ -65,7 +62,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "deanattali.com/beautiful-jekyll"  # eg. "deanattali.com/beautiful-jekyll"
+# url-pretty: "deanattali.com/beautiful-jekyll"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
 
