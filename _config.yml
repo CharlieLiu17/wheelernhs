@@ -30,7 +30,7 @@ navbar-links:
   Home: ""
   Resources: "resources"
   About us: "about"
-  Sign Ups!: "signupgenius.com"
+  Sign Ups!: "https://www.signupgenius.com"
 
 # --- Footer options --- #
 
