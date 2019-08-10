@@ -28,7 +28,7 @@ avatar: "/img/nhsavatarsquare.png"
 # List of links in the navigation bar
 navbar-links:
   Home: ""
-  Resources: "resources"
+  Resources: "Meetings"
   About us: "about"
   Sign Ups!: "https://www.signupgenius.com"
 
