@@ -28,6 +28,7 @@ avatar: "/img/nhsavatarsquare.png"
 # List of links in the navigation bar
 navbar-links:
   Calendar: "calendar"
+  Spreadsheet: "spreadsheet"
   Sign Ups!: "https://www.signupgenius.com"
   Constitution: "https://www.nhs.us/about/constitution-governance/nhs-national-constitution/"
   About us: "about"
