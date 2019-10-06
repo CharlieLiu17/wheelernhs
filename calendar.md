@@ -6,12 +6,12 @@ title: Calendar
 
 **Meeting Dates for 2019 Fall Semester:**
 
-*All meetings start at 7:45 sharp and are mandatory. (Subject to Change)*
+*All meetings start at 7:45 sharp and are mandatory. (Updated)*
 
 September 4th, 2019
 
-October 2nd, 2019
+October 9th, 2019
 
-November 6th, 2019
+November 13th, 2019
 
-December 4th, 2019
+December 11th, 2019
