@@ -29,7 +29,7 @@ avatar: "/img/nhsavatarsquare.png"
 navbar-links:
   Calendar: "calendar"
   Volunteering: 
-    - Sign ups!: "https://www.signupgenius.com/go/30E0B4AA5AD2FA7FE3-learning"
+    - Sign ups!: "signups"
     - Volunteering Slips: "https://drive.google.com/uc?export=download&id=0B7bZcKLTnz9oYVFXQ2RhbkRXV3h0aTY4WEhpUHI3ZmVZOGFR"
     - Spreadsheet: "https://docs.google.com/spreadsheets/d/1iyT0vSujiNJRBVU4buYut0DuSh8I3NWUC-DeWlw5oMc/edit?usp=sharing"
   Constitution: "https://www.nhs.us/about/constitution-governance/nhs-national-constitution/"
