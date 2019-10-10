@@ -13,3 +13,5 @@ title: Sign Ups!
 [Homecoming Parade!](https://www.signupgenius.com/go/30E0B4AA5AD2FA7FE3-homecoming)
 
 [Word of the Month Bulletin Board](https://www.signupgenius.com/go/30E0B4AA5AD2FA7FE3-word)
+
+[Georgia JCL Fall Forum!](https://www.signupgenius.com/go/30E0B4AA5AD28AAF58-wheeler)
