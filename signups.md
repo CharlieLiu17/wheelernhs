@@ -8,4 +8,8 @@ title: Sign Ups!
 
 [Learning Links](https://www.signupgenius.com/go/30E0B4AA5AD2FA7FE3-nhslearning1)
 
-More soon to come.
+[Decoration Day!](https://www.signupgenius.com/go/30E0B4AA5AD2FA7FE3-decoration)
+
+[Homecoming Parade!](https://www.signupgenius.com/go/30E0B4AA5AD2FA7FE3-homecoming)
+
+[Word of the Month Bulletin Board](https://www.signupgenius.com/go/30E0B4AA5AD2FA7FE3-word)
