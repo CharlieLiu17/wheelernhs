@@ -8,7 +8,7 @@ There's a lot of new event this week and in the following weeks! Make sure to ma
 
 This week, you can sign up for help writing the Word of the Month Bulletin Board, Homecoming Parade event, Fall Forum host by Georgia JCl, National Spanish Honor Society hat-making (ask Vazquez). 
 
-Note: If doing Homecoming Parade, please bring small baguettes (seriously), because the our theme will be Paris.
+Note: If doing Homecoming Parade, please bring small baguettes (seriously), because our theme will be Paris.
 
 Remember, no hours are counted until permission forms are turned in.
 
