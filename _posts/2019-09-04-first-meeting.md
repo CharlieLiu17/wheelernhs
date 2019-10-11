@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 8/04 Meeting
+title: 9/04 Meeting
 ---
 **Here's a recap of what we covered on our first meeting:**
 

@@ -8,7 +8,7 @@ title: Sign Ups!
 
 [Learning Links](https://www.signupgenius.com/go/30E0B4AA5AD2FA7FE3-nhslearning1)
 
-[Decoration Day!](https://www.signupgenius.com/go/30E0B4AA5AD2FA7FE3-decoration)
+[Decoration Day for Homecoming!](https://www.signupgenius.com/go/30E0B4AA5AD2FA7FE3-decoration)
 
 [Homecoming Parade!](https://www.signupgenius.com/go/30E0B4AA5AD2FA7FE3-homecoming)
 
