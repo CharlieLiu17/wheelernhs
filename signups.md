@@ -4,9 +4,9 @@ title: Sign Ups!
 ---
 
 
-**Here's this week's sign ups! (Week of 10/7)**
+**Here's this week's sign ups! (Week of 10/14)**
 
-[Learning Links](https://www.signupgenius.com/go/30E0B4AA5AD2FA7FE3-nhslearning1)
+[Learning Links](https://www.signupgenius.com/go/30E0B4AA5AD2FA7FE3-learning1)
 
 [Decoration Day for Homecoming!](https://www.signupgenius.com/go/30E0B4AA5AD2FA7FE3-decoration)
 
