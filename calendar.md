@@ -12,6 +12,6 @@ September 4th, 2019
 
 October 9th, 2019
 
-November 13th, 2019
+November 7th, 2019
 
-December 11th, 2019
+December 5th, 2019
