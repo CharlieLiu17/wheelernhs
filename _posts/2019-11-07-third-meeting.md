@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 10/07 Meeting
+title: 11/07 Meeting
 ---
-**Here's a recap of what we covered on our second meeting:**
+**Here's a recap of what we covered on our third meeting:**
 
 Only 58% of members have paid dues! Have your dues in by 12/1, and you will be able to receive an National Honor Society t-shirt! Make payments on [mypaymentsplus.com](https://mypaymentsplus.com)
 
