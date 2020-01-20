@@ -4,9 +4,8 @@ title: Sign Ups!
 ---
 
 
-**Here's this week's sign ups! (Week of 12/2)**
+**Here's this week's sign ups! (Week of 1/20)**
 
-[comment]: <> ([Learning Links](https://www.signupgenius.com/go/30E0B4AA5AD2FA7FE3-ll107))
+[Learning Links](https://www.signupgenius.com/go/30E0B4AA5AD2FA7FE3-ll121)
 
-Learning Links will resume next week.
 
