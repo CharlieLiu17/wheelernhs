@@ -8,4 +8,6 @@ title: Sign Ups!
 
 [Learning Links](https://www.signupgenius.com/go/30E0B4AA5AD2FA7FE3-ll121)
 
+[East Valley 1/21 and 1/23](https://www.signupgenius.com/go/508084aabab2eabfe3-eastvalley3)
+
 
