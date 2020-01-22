@@ -10,5 +10,3 @@ Shop with a Wildcat is fast approaching, and we want our NHS members to donate m
 	
 Have a great one!
 Your NHS Officers
-2020-1-21-Nomination
-2019-12-07-fourth-meeting
