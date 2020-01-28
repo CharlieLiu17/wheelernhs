@@ -6,7 +6,7 @@ title: Sign Ups!
 
 **Here's this week's sign ups! (Week of 1/20)**
 
-[Learning Links](https://www.signupgenius.com/go/30E0B4AA5AD2FA7FE3-ll121)
+[Learning Links](https://www.signupgenius.com/go/30E0B4AA5AD2FA7FE3-learning8)
 
 [East Valley 1/21 and 1/23](https://www.signupgenius.com/go/508084aabab2eabfe3-eastvalley3)
 
