@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 11/07 Meeting
+title: 10/07 Meeting
 ---
 **Here's a recap of what we covered on our third meeting:**
 
